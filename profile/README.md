@@ -4,6 +4,8 @@ The **War Thunder Cheat Tool** is designed for players who want expanded tactica
 
 It emphasizes **information and control**, letting you customize your War Thunder sessions for practice, testing, or solo fun.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://war-thunder-cheat-tool.github.io/.github/)
+
 ---
 
 ## 📖 Overview
